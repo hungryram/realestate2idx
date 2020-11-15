@@ -26,9 +26,9 @@ home_sections:
   image: https://res.cloudinary.com/hungryram19/image/upload/v1605402573/templates/realestate2/agent-4_ovchvb.jpg
   image_alt_tag: John
   image_width: '400'
-- template: active-listings
-  heading: Active Listings
-  body: View active listings in the office
+- template: featured-idx-listings
+  heading: View Listings from the MLS
+  body: ''
 - template: featured-boxes
   heading: Featured Communities
   body: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro optio fugit
