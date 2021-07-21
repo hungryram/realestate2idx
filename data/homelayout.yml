@@ -1,20 +1,12 @@
 ---
 slideshow:
-- heading: Explore Beautiful Homes
+- heading: 1st Independence Realty
   subtitle: Let our team of experts guide you to your next home
   link_label: Read More
   link: https://www.hungryram.com
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605404579/templates/realestate2/slider3_o30w9i_pujrai.jpg
-  body: Modern real estate website powered by new technology. This site does not rely
-    on any database which ensures optimal performance and the highest security
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1626899058/trinie-johnson/1st-independence-realty/couch_czn3ax.jpg
+  body: ''
   enable_white_text: true
-- image: https://res.cloudinary.com/hungryram19/image/upload/v1605404343/templates/realestate2/farmhousekitchen_z56hb7.jpg
-  subtitle: my subtitle
-  body: 'No need to bloat the website with drag and drop or page builders. '
-  enable_white_text: true
-  link: View Properties
-  link_label: "/listings"
-  heading: No Heavy Resources
 home_sections:
 - template: text-and-image
   heading: Discover Our Finest Homes
@@ -29,20 +21,6 @@ home_sections:
 - template: featured-idx-listings
   heading: View Listings from the MLS
   body: ''
-- template: featured-boxes
-  heading: Featured Communities
-  body: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro optio fugit
-    non delectus eos, quas, dolorem alias '
-  featured:
-  - image: https://res.cloudinary.com/hungryram19/image/upload/v1605402922/templates/realestate2/losangeles_z6wp8g.jpg
-    link: "/contact"
-    heading: Los Angeles
-  - heading: Whittier
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402939/templates/realestate2/livingroom_az8tp4.jpg
-    link: "/contact"
-  - heading: Corona
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402970/templates/realestate2/sidekix-media-l6u4GIKvxBs-unsplash_qipkhd.jpg
-    link: "/contact"
 - template: home-agent
   heading: Our Team
   body: Helpful agents that will guide you in the real estate market
@@ -57,25 +35,3 @@ home_sections:
       home. Get emails directly to your inbox and manage the lead as you wish.
   background_color: "#424242"
   enable_white_text: true
-- template: tiles
-  heading: Featured Areas
-  body: View our best homes
-  tile_one:
-    heading: Feature One
-    image: ''
-    link: https://google.com
-  tile_two:
-    heading: Feature Two
-    image: ''
-    link: "/contact"
-  tile_three:
-    heading: Feature Three
-    image: ''
-    link: "/contact"
-  tile_four:
-    heading: Feature Four
-    image: ''
-    link: "/team"
-- template: home-blog
-  heading: Our Blog
-  body: Keep up with latest posts
