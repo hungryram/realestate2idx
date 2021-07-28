@@ -19,7 +19,7 @@ branding:
   logo: https://res.cloudinary.com/hungryram19/image/upload/v1605403350/templates/realestate2/cropped-logotrans_rpmnf7.png
   favicon: https://res.cloudinary.com/hungryram19/image/upload/v1605403329/templates/realestate2/cropped-logotrans_qowdad.png
 header:
-  top_header_color: "#7D0000"
+  top_header_color: "#181F24"
   header_background_color: "#FFFFFF"
   enable_white_text: false
   enable_white_text_top: true
@@ -35,5 +35,5 @@ sidebar:
 colors:
   button_background_color: "#000000"
   button_text_color: "#FFFFFF"
-  links: "#A40000"
-  accent: "#A40000"
+  links: "#F5A623"
+  accent: "#F5A623"
