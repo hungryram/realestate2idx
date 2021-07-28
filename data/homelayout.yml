@@ -1,11 +1,12 @@
 ---
 slideshow:
-- heading: 1st Independence Realty
+- heading: Real Estate Website
   subtitle: Let our team of experts guide you to your next home
   link_label: Read More
   link: https://www.hungryram.com
   image: https://res.cloudinary.com/hungryram19/image/upload/v1626899058/trinie-johnson/1st-independence-realty/couch_czn3ax.jpg
-  body: ''
+  body: Flexible real estate website for your business. Optionally integrated with
+    IDX
   enable_white_text: true
 home_sections:
 - template: text-and-image
